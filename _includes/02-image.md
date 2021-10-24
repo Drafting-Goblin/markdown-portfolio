@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of potato](https://thumbs.dreamstime.com/b/potato-15909787.jpg)
